@@ -10,7 +10,7 @@ Les fichiers manipulés sur cet exercice sont des échantillons issus de PubMed,
 
 ### Pourquoi réaliser ce projet ?
  
-Ce projet me permet de travailler comme un data engineer sur une véritable mission. L'idée était de produire un code clair et opérationnel pour le rendre déployable dans un environnement de production. Egalementm je voulais mettre en application mes connaissances en manipulation de données.
+Ce projet me permet de travailler comme un data engineer sur une véritable mission. L'idée était de produire un code clair et opérationnel pour le rendre déployable dans un environnement de production. Également, je voulais mettre en application mes connaissances en manipulation de données.
 
 ### Combien de temps cela m'a pris ?
 
