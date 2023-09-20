@@ -1,0 +1,414 @@
+{
+    "directed": true,
+    "graph": {},
+    "links": [
+        {
+            "date_mention": "2019-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "DIPHENHYDRAMINE",
+            "target": "1"
+        },
+        {
+            "date_mention": "2019-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "DIPHENHYDRAMINE",
+            "target": "2"
+        },
+        {
+            "date_mention": "2019-01-02T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "DIPHENHYDRAMINE",
+            "target": "3"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "clinical_trials_mentionned",
+            "source": "DIPHENHYDRAMINE",
+            "target": "NCT01967433"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "clinical_trials_mentionned",
+            "source": "DIPHENHYDRAMINE",
+            "target": "NCT04189588"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "clinical_trials_mentionned",
+            "source": "DIPHENHYDRAMINE",
+            "target": "NCT04237090"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "DIPHENHYDRAMINE",
+            "target": "Journal of emergency nursing"
+        },
+        {
+            "date_mention": "2019-01-01T00:00:00.000000000",
+            "key": 1,
+            "label": "journal_mentionned",
+            "source": "DIPHENHYDRAMINE",
+            "target": "Journal of emergency nursing"
+        },
+        {
+            "date_mention": "2019-01-02T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "DIPHENHYDRAMINE",
+            "target": "The Journal of pediatrics"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "TETRACYCLINE",
+            "target": "4"
+        },
+        {
+            "date_mention": "2020-01-02T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "TETRACYCLINE",
+            "target": "5"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "TETRACYCLINE",
+            "target": "6"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "TETRACYCLINE",
+            "target": "Journal of food protection"
+        },
+        {
+            "date_mention": "2020-01-02T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "TETRACYCLINE",
+            "target": "American journal of veterinary research"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "TETRACYCLINE",
+            "target": "Psychopharmacology"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "ETHANOL",
+            "target": "6"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "ETHANOL",
+            "target": "Psychopharmacology"
+        },
+        {
+            "date_mention": "2020-01-03T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "ATROPINE",
+            "target": "13"
+        },
+        {
+            "date_mention": "2020-01-03T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "ATROPINE",
+            "target": "The journal of maternal-fetal & neonatal medicine"
+        },
+        {
+            "date_mention": "2020-02-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "EPINEPHRINE",
+            "target": "7"
+        },
+        {
+            "date_mention": "2020-03-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "EPINEPHRINE",
+            "target": "8"
+        },
+        {
+            "date_mention": "2020-04-27T00:00:00.000000000",
+            "key": 0,
+            "label": "clinical_trials_mentionned",
+            "source": "EPINEPHRINE",
+            "target": "NCT04188184"
+        },
+        {
+            "date_mention": "2020-02-01T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "EPINEPHRINE",
+            "target": "The journal of allergy and clinical immunology. In practice"
+        },
+        {
+            "date_mention": "2020-03-01T00:00:00.000000000",
+            "key": 1,
+            "label": "journal_mentionned",
+            "source": "EPINEPHRINE",
+            "target": "The journal of allergy and clinical immunology. In practice"
+        },
+        {
+            "date_mention": "2020-04-27T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "EPINEPHRINE",
+            "target": "Journal of emergency nursing"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "ISOPRENALINE",
+            "target": "9"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "ISOPRENALINE",
+            "target": "Journal of photochemistry and photobiology. B, Biology"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "BETAMETHASONE",
+            "target": "10"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "BETAMETHASONE",
+            "target": "11"
+        },
+        {
+            "date_mention": "2020-01-03T00:00:00.000000000",
+            "key": 0,
+            "label": "pubmed_mentionned",
+            "source": "BETAMETHASONE",
+            "target": "13"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "clinical_trials_mentionned",
+            "source": "BETAMETHASONE",
+            "target": "NCT04153396"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "BETAMETHASONE",
+            "target": "Hôpitaux Universitaires de Genève"
+        },
+        {
+            "date_mention": "2020-01-03T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "BETAMETHASONE",
+            "target": "The journal of maternal-fetal & neonatal medicine"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 1,
+            "label": "journal_mentionned",
+            "source": "BETAMETHASONE",
+            "target": "The journal of maternal-fetal & neonatal medicine"
+        },
+        {
+            "date_mention": "2020-01-01T00:00:00.000000000",
+            "key": 0,
+            "label": "journal_mentionned",
+            "source": "BETAMETHASONE",
+            "target": "Journal of back and musculoskeletal rehabilitation"
+        }
+    ],
+    "multigraph": true,
+    "nodes": [
+        {
+            "atccode": "A04AD",
+            "id": "DIPHENHYDRAMINE",
+            "label": "drug"
+        },
+        {
+            "id": "1",
+            "label": "pubmed",
+            "title": "A 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations"
+        },
+        {
+            "id": "2",
+            "label": "pubmed",
+            "title": "An evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy."
+        },
+        {
+            "id": "3",
+            "label": "pubmed",
+            "title": "Diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning."
+        },
+        {
+            "id": "NCT01967433",
+            "label": "Clinical trials",
+            "title": "Use of Diphenhydramine as an Adjunctive Sedative for Colonoscopy in Patients Chronically on Opioids"
+        },
+        {
+            "id": "NCT04189588",
+            "label": "Clinical trials",
+            "title": "Phase 2 Study IV QUZYTTIR™ (Cetirizine Hydrochloride Injection) vs V Diphenhydramine"
+        },
+        {
+            "id": "NCT04237090",
+            "label": "Clinical trials",
+            "title": "Feasibility of a Clinical Trial Comparing the Use of Cetirizine to Replace Diphenhydramine in the Prevention of Reactions Related to Paclitaxel"
+        },
+        {
+            "id": "Journal of emergency nursing",
+            "label": "Journal"
+        },
+        {
+            "id": "The Journal of pediatrics",
+            "label": "Journal"
+        },
+        {
+            "atccode": "S03AA",
+            "id": "TETRACYCLINE",
+            "label": "drug"
+        },
+        {
+            "id": "4",
+            "label": "pubmed",
+            "title": "Tetracycline Resistance Patterns of Lactobacillus buchneri Group Strains."
+        },
+        {
+            "id": "5",
+            "label": "pubmed",
+            "title": "Appositional Tetracycline bone formation rates in the Beagle."
+        },
+        {
+            "id": "6",
+            "label": "pubmed",
+            "title": "Rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication."
+        },
+        {
+            "id": "Journal of food protection",
+            "label": "Journal"
+        },
+        {
+            "id": "American journal of veterinary research",
+            "label": "Journal"
+        },
+        {
+            "id": "Psychopharmacology",
+            "label": "Journal"
+        },
+        {
+            "atccode": "V03AB",
+            "id": "ETHANOL",
+            "label": "drug"
+        },
+        {
+            "atccode": "A03BA",
+            "id": "ATROPINE",
+            "label": "drug"
+        },
+        {
+            "id": "13",
+            "label": "pubmed",
+            "title": "Comparison of pressure BETAMETHASONE release, phonophoresis and dry needling in treatment of latent myofascial trigger point of upper trapezius ATROPINE muscle."
+        },
+        {
+            "id": "The journal of maternal-fetal & neonatal medicine",
+            "label": "Journal"
+        },
+        {
+            "atccode": "A01AD",
+            "id": "EPINEPHRINE",
+            "label": "drug"
+        },
+        {
+            "id": "7",
+            "label": "pubmed",
+            "title": "The High Cost of Epinephrine Autoinjectors and Possible Alternatives."
+        },
+        {
+            "id": "8",
+            "label": "pubmed",
+            "title": "Time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained ROSC after traumatic out-of-hospital cardiac arrest."
+        },
+        {
+            "id": "NCT04188184",
+            "label": "Clinical trials",
+            "title": "Tranexamic Acid Versus Epinephrine During Exploratory Tympanotomy"
+        },
+        {
+            "id": "The journal of allergy and clinical immunology. In practice",
+            "label": "Journal"
+        },
+        {
+            "atccode": "6302001",
+            "id": "ISOPRENALINE",
+            "label": "drug"
+        },
+        {
+            "id": "9",
+            "label": "pubmed",
+            "title": "Gold nanoparticles synthesized from Euphorbia fischeriana root by green route method alleviates the isoprenaline hydrochloride induced myocardial infarction in rats."
+        },
+        {
+            "id": "Journal of photochemistry and photobiology. B, Biology",
+            "label": "Journal"
+        },
+        {
+            "atccode": "R01AD",
+            "id": "BETAMETHASONE",
+            "label": "drug"
+        },
+        {
+            "id": "10",
+            "label": "pubmed",
+            "title": "Clinical implications of umbilical artery Doppler changes after betamethasone administration"
+        },
+        {
+            "id": "11",
+            "label": "pubmed",
+            "title": "Effects of Topical Application of Betamethasone on Imiquimod-induced Psoriasis-like Skin Inflammation in Mice."
+        },
+        {
+            "id": "NCT04153396",
+            "label": "Clinical trials",
+            "title": "Preemptive Infiltration With Betamethasone and Ropivacaine for Postoperative Pain in Laminoplasty or Laminectomy"
+        },
+        {
+            "id": "Hôpitaux Universitaires de Genève",
+            "label": "Journal"
+        },
+        {
+            "id": "Journal of back and musculoskeletal rehabilitation",
+            "label": "Journal"
+        }
+    ]
+}
